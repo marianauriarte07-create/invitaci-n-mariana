@@ -1,0 +1,17 @@
+INVITACIÓN DE GRADUACIÓN — MARIANA CELESTE URIARTE ORTIZ
+
+Archivos:
+- index.html: página web
+- assets/: fotografías de la galería
+
+PUBLICAR GRATIS CON GITHUB PAGES:
+1. Extrae el ZIP.
+2. Entra en https://github.com/ e inicia sesión.
+3. Crea un repositorio público llamado invitacion-mariana.
+4. Sube index.html y la carpeta assets completa (mantén los archivos dentro de assets).
+5. Abre Settings > Pages.
+6. En Build and deployment, elige Deploy from a branch, rama main y carpeta /(root), y guarda.
+7. Espera a que GitHub Pages publique el sitio. El enlace aparecerá en esa misma pantalla.
+
+La canción se reproduce desde YouTube al tocar el reproductor; necesita conexión a internet.
+El botón de ubicación abre el enlace de Google Maps que enviaste.
